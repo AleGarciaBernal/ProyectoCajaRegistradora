@@ -42,11 +42,11 @@ _• En caso de presionar la opcion 7 (Ejecutar tu propio Ejemplo), aparecerán 
 
 _=====================================================_  
 
-_ Introduzca el monto a pagar:_  
+_Introduzca el monto a pagar:_  
 
 _=====================================================_  
 
-_ Introduzca el monto pagado:_  
+_Introduzca el monto pagado:_  
 
 _=====================================================_  
 
