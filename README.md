@@ -1,45 +1,64 @@
-- Para ejecutar el programa debe abrir el archivo coinChange.cpp en su compilador de C++ y, una vez abierto, debe presionar en el icono de Run.
+# ProyectoCajaRegistradora
+# Caja Registradora
 
-- A continuación se mostrará el menu, donde verá las siguientes opciones:
-    =====================================================
-    1. Ejecutar el Primer Ejemplo
-    2. Ejecutar el Segundo Ejemplo
-    3. Ejecutar el Tercer Ejemplo
-    4. Ejecutar el Cuarto Ejemplo
-    5. Ejecutar el Quinto Ejemplo
-    6. Ejecutar el Sexto Ejemplo
-    7. Ejecutar tu propio Ejemplo
-    X. Salir del programa 
-    =====================================================
-    (Donde X es cero)
+_Aplicacion del algoritmo CoinChage en una situacion de la vida diaria_
 
-- Seleccione una de las opciones e introduzca el número de la opción en la consola.
+## Instrucciones para ejecutar el programa⚙️
 
-- En caso de presionar la opcion 7 (Ejecutar tu propio Ejemplo), aparecerán las siguientes opciones y deberá ingresar los valores solicitados:
-    =====================================================
-    Introduzca el monto a pagar:
-    =====================================================
-    Introduzca el monto pagado:
-    =====================================================
+_Para ejecutar el programa debe abrir el archivo coinChange.cpp en su compilador de C++ y, una vez abierto, debe presionar en el icono de Run._
 
-- A continuacion verá las siguientes opciones:
-    =====================================================
-    11. Mostrar cuanto es el cambio de que debe dar el cajero
-    12. Mostrar la minima cantidad de monedas y/o billetes usados para dar el cambio
-    13. Mostrar las maneras de dar el cambio
-    =====================================================
+_A continuación se mostrará el menu, donde verá las siguientes opciones:_
 
-- Seleccione una de las opciones e introduzca el número de la opción en la consola.
+_=====================================================_
+_1. Ejecutar el Primer Ejemplo_
+_2. Ejecutar el Segundo Ejemplo_
+_3. Ejecutar el Tercer Ejemplo_
+_4. Ejecutar el Cuarto Ejemplo_
+_5. Ejecutar el Quinto Ejemplo_
+_6. Ejecutar el Sexto Ejemplo_
+_7. Ejecutar tu propio Ejemplo_
+_X. Salir del programa_
+_=====================================================_
+_(Donde X es cero)_
 
-- En caso de presionar la opcion 13 (Mostrar las maneras de dar el cambio), aparecerán las siguientes opciones y debera seleccionar una opcion:
-    ====================================================
-    Existen X maneras de dar el cambio, desea verlas?
-    14. SI
-    15. NO
-    ====================================================
-    (Donde X es la respuesta al ejemplo solicitado)
+_Seleccione una de las opciones e introduzca el número de la opción en la consola._
 
-- Se mostrara la respuesta a la opción solicitada y, volvera a mostrarse el menú principal.
+_En caso de presionar la opcion 7 (Ejecutar tu propio Ejemplo), aparecerán las siguientes opciones y deberá ingresar los valores solicitados:_
+_=====================================================_
+_Introduzca el monto a pagar:_
+_=====================================================_
+_Introduzca el monto pagado:_
+_=====================================================_
 
-- Repita los pasos anteriores (del 2 al 8 ) en caso de querer realizar otra consulta o presione 0 para salir del programa.
+_A continuacion verá las siguientes opciones:_
+_=====================================================_
+_11. Mostrar cuanto es el cambio de que debe dar el cajero_
+_12. Mostrar la minima cantidad de monedas y/o billetes usados para dar el cambio_
+_13. Mostrar las maneras de dar el cambio
+_=====================================================_
+
+_Seleccione una de las opciones e introduzca el número de la opción en la consola._
+
+_En caso de presionar la opcion 13 (Mostrar las maneras de dar el cambio), aparecerán las siguientes opciones y debera seleccionar una opcion:_
+_====================================================_
+_Existen X maneras de dar el cambio, desea verlas?_
+_14. SI_
+_15. NO_
+_==================================================== _
+_(Donde X es la respuesta al ejemplo solicitado)_
+
+_Se mostrara la respuesta a la opción solicitada y, volvera a mostrarse el menú principal. _
+
+_Repita los pasos anteriores (del 2 al 8 ) en caso de querer realizar otra consulta o presione 0 para salir del programa. _
+
+## Construido con 🛠️
+
+_Visual Studio Code_
+
+## Autores ✒️
+
+_Ariane Garret Beccera_
+_Ximena Guzman Salvatierra_
+_Aljenadra Garcia Bernal_
+
 
