@@ -99,7 +99,7 @@ _Ariane Garret Beccera_
 
 _Ximena Guzman Salvatierra_  
 
-_Aljenadra Garcia Bernal_  
+_Alejandra Garcia Bernal_  
 
 
 
