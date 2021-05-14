@@ -5,10 +5,10 @@ _Aplicacion del algoritmo CoinChage en una situacion de la vida diaria_
 
 ## Instrucciones para ejecutar el programa⚙️
 
-_Para ejecutar el programa debe abrir el archivo coinChange.cpp en su compilador de C++ y, una vez abierto, debe presionar en el icono de Run._  
+_•Para ejecutar el programa debe abrir el archivo coinChange.cpp en su compilador de C++ y, una vez abierto, debe presionar en el icono de Run._  
 
 
-_A continuación se mostrará el menu, donde verá las siguientes opciones:_  
+_•A continuación se mostrará el menu, donde verá las siguientes opciones:_  
 
 
 _=====================================================_  
@@ -34,23 +34,23 @@ _=====================================================_
 _(Donde X es cero)_  
 
 
-_Seleccione una de las opciones e introduzca el número de la opción en la consola._  
+_•Seleccione una de las opciones e introduzca el número de la opción en la consola._  
 
 
-_En caso de presionar la opcion 7 (Ejecutar tu propio Ejemplo), aparecerán las siguientes opciones y deberá ingresar los valores solicitados:_  
-
-_=====================================================_  
-
-_Introduzca el monto a pagar:_  
+_•En caso de presionar la opcion 7 (Ejecutar tu propio Ejemplo), aparecerán las siguientes opciones y deberá ingresar los valores solicitados:_  
 
 _=====================================================_  
 
-_Introduzca el monto pagado:_  
+_•Introduzca el monto a pagar:_  
+
+_=====================================================_  
+
+_•Introduzca el monto pagado:_  
 
 _=====================================================_  
 
 
-_A continuacion verá las siguientes opciones:_  
+_•A continuacion verá las siguientes opciones:_  
 
 _=====================================================_  
 
@@ -63,10 +63,10 @@ _13. Mostrar las maneras de dar el cambio_
 _=====================================================_  
 
 
-_Seleccione una de las opciones e introduzca el número de la opción en la consola._  
+_•Seleccione una de las opciones e introduzca el número de la opción en la consola._  
 
 
-_En caso de presionar la opcion 13 (Mostrar las maneras de dar el cambio), aparecerán las siguientes opciones y debera seleccionar una opcion:_  
+_•En caso de presionar la opcion 13 (Mostrar las maneras de dar el cambio), aparecerán las siguientes opciones y debera seleccionar una opcion:_  
 
 _====================================================_  
 
@@ -78,13 +78,13 @@ _15. NO_
 
 _==================================================== _  
 
-_(Donde X es la respuesta al ejemplo solicitado)_  
+_•(Donde X es la respuesta al ejemplo solicitado)_  
 
 
-_Se mostrara la respuesta a la opción solicitada y, volvera a mostrarse el menú principal. _  
+_•Se mostrara la respuesta a la opción solicitada y, volvera a mostrarse el menú principal._  
 
 
-_Repita los pasos anteriores (del 2 al 8 ) en caso de querer realizar otra consulta o presione 0 para salir del programa. _  
+_•Repita los pasos anteriores (del 2 al 8 ) en caso de querer realizar otra consulta o presione 0 para salir del programa._  
 
 
 ## Construido con 🛠️
