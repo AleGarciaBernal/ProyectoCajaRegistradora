@@ -95,8 +95,11 @@ _Visual Studio Code_
 ## Autores ✒️  
 
 
-_Ariane Garret Beccera_
-_Ximena Guzman Salvatierra_
-_Aljenadra Garcia Bernal_
+_Ariane Garret Beccera_  
+
+_Ximena Guzman Salvatierra_  
+
+_Aljenadra Garcia Bernal_  
+
 
 
