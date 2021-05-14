@@ -42,11 +42,11 @@ _• En caso de presionar la opcion 7 (Ejecutar tu propio Ejemplo), aparecerán 
 
 _=====================================================_  
 
-_• Introduzca el monto a pagar:_  
+_ Introduzca el monto a pagar:_  
 
 _=====================================================_  
 
-_• Introduzca el monto pagado:_  
+_ Introduzca el monto pagado:_  
 
 _=====================================================_  
 
@@ -79,7 +79,7 @@ _15. NO_
 
 _====================================================_  
 
-_• (Donde X es la respuesta al ejemplo solicitado)_  
+_ (Donde X es la respuesta al ejemplo solicitado)_  
 
 
 _• Se mostrara la respuesta a la opción solicitada y, volvera a mostrarse el menú principal._  
